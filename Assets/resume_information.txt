@@ -1,0 +1,100 @@
+#Never ever try to edit the resume_information file present in the assest
+
+# Namdev Suryavanshi
+
+**Address:**  
+401, Dwarka Sadan, Plot No 11 Sec no 24, Khandeshwar, Navi Mumbai 410209  
+**Phone:** +91 9892164744  
+**Email:** namdev.suryavanshi20@gmail.com  
+**LinkedIn:** [Namdev_linkedin](#)  
+
+---
+
+## Education
+
+| Qualification               | Institute             | Board / University | Year      | % / CGPA |
+|----------------------------|-----------------------|--------------------|-----------|----------|
+| MS Applied Statistics and Analytics | NMIMS, Mumbai        | NMIMS              | 2022-2024 | 3.5 / 4  |
+| BSc. Statistics            | D.G. Ruparel College  | Mumbai             | 2018-2021 | 8.3 / 10 |
+| XII                        | D.G. Ruparel College  | HSC                | 2019      | 71.08%   |
+| X                          | Don Bosco High School | SSC                | 2017      | 85.80%   |
+
+---
+
+## Technical Skills
+
+- Python  
+- MySQL  
+- Tableau  
+- Analytics  
+- Data Visualization  
+- Excel  
+- Data Analysis  
+
+---
+
+## Professional Experience
+
+### Data Scientist – Tech AI Solutions Team  
+**Trinity Life Sciences | July 2, 2024 – Present**
+
+**Key Responsibilities & Achievements:**
+
+- **Developed end-to-end GenAI solutions** for multiple clients, including advanced RAG (Retrieval-Augmented Generation) applications for Q&A and summarization, and an executive-level Data Analyst Bot.
+
+**RAG Applications:**  
+- Built robust parsing modules to convert five file types (PDF, PPT, Excel, Markdown, and TXT) into structured JSON format using Claude 3.5/4 and GPT-4, processing ~300 documents to form a searchable knowledge base.  
+- Enhanced retrieval performance using advanced prompt engineering, Milvus vector DB (hybrid search + re-ranking), and scalable embedding pipelines.  
+- Implemented an Agentic AI framework handling multi-LLM clients, vector DB hosting, AWS-based data storage, and Langfuse-based observability. Containerized the stack using Docker for scalability.
+
+**AI-powered Data Analyst Bot:**  
+- Developed a GenAI bot leveraging Agentic AI to automate root cause analysis (RCA) and translate natural language queries to SQL for PostgreSQL databases.  
+- Designed and integrated 4 autonomous agents including data visualization modules, RCA test engines (3 types), and schema-aware context managers for multi-table environments.  
+- Reduced RCA execution time from ~7 minutes to 2.5–3 minutes by implementing asynchronous and parallel processing where applicable, improving system responsiveness and user experience.  
+- Implemented a dynamic front-end rendering system to visualize AI-generated charts for clear executive insights.  
+- Integrated Langfuse for end-to-end traceability and debugging of agent interactions.
+
+**Tech Stack:** GPT-4, Claude 3.5/4, Langfuse, Milvus, PostgreSQL, Docker, AWS, Python (Asyncio, Multiprocessing), Prompt Engineering, RAG, Agentic AI
+
+---
+
+### Previous Experience & Key Responsibilities
+
+**Data Gathering and Preprocessing**  
+- Used Google Cloud Platform with SQL and Python for data gathering and preprocessing.  
+- Developed 2 machine learning models for product teams with 300+ features.  
+- Achieved model accuracy of 80% and recall of 82%.  
+- Tracked performance of deployed models and automated tasks using Python.  
+- Deployed models for banking applications.
+
+**SFOPROFILING Project Lead**  
+- Led project involving machine learning techniques including clustering and logistic regression.  
+- Achieved 92% ROC-AUC accuracy on multiple datasets.  
+- Used SMOTE and KFOLD validation to improve accuracy by 3%.  
+- Presented business insights to senior leadership and collaborated cross-functionally.
+
+**AI-based Attendance System Development**  
+- Developed and integrated an attendance system using Artificial Intelligence with 96% accuracy.  
+- Built a Convolutional Neural Network deep learning model trained on real-world data.  
+- Automated attendance using smart boards, reducing average attendance time from 4.5 minutes to near zero.  
+- Addressed proxy attendance and ensured real-time, accurate tracking of ~60 students per classroom, minimizing disruption.
+
+**Retail & Marketing Analytics**  
+- Conducted RFM analysis on 500,000 retail orders.  
+- Segmented 4,000 customers into 3 categories using K-Means and hierarchical clustering techniques; built KPIs.  
+- Utilized Natural Language Processing (NLP) for feature extraction/engineering to categorize 100+ products.  
+- Applied logistic regression to identify key revenue drivers with 94% accuracy.  
+- Developed strategies to boost business growth and improve customer experience using machine learning and marketing analytics.
+
+**Competitions & Hackathons**  
+- Led a 4-member team to Top 12/300 overall and Top 3 in category at "DATAHACK" AI/ML hackathon.  
+- Used NLP (NLTK, text2vec) and web scraping (300+ Wikipedia pages) for YouTube suggestion SEO project.  
+- Ranked 2nd in a 6-hour “Classical Survey” contest, surveying 200 individuals on "Canteen Food" and delivering key insights.
+
+---
+
+## Certifications
+
+- Udemy: Machine Learning and Deep Learning in Python  
+- Verified Skills (HackerRank): SQL and Python Basics  
+- SAS Certified Specialist: Base Programming Using SAS 9.4 (Score: 725/1000)  
